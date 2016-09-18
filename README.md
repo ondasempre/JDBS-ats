@@ -1,3 +1,3 @@
 # JDBS
 
-Oracle database 10g
+Oracle database 10g connections.
